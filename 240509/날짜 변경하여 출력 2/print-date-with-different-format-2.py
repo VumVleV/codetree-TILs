@@ -1,1 +1,1 @@
-a,b,c=map(int,input().split("-"));print(c,b,a,sep=".")
+a,b,c=map(int,input().split("-"));print(c,a,b,sep=".")
