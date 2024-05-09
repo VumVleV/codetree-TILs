@@ -1,1 +1,1 @@
-a=float(input());b=float(input());print(a+b)
+a=float(input());b=float(input());print(f"{a+b}:.2f")
