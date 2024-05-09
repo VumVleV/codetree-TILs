@@ -1,1 +1,1 @@
-a,b=int(input().split(":"));print(a+1,b,sep=":")
+a,b=map(int,input().split(":"));print(a+1,b,sep=":")
