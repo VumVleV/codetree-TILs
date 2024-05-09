@@ -1,1 +1,1 @@
-a,b=map(int,input().split());print(f"{(a+b)/(a-b):.2f}"))
+a,b=map(float,input().split());print(f"{(a+b)/(a-b):.2f}"))
