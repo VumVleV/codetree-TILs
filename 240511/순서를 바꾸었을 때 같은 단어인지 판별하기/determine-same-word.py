@@ -1,6 +1,6 @@
 a=input()
 b=input()
-a.sort;b.sort;
+sort(a);sort(b);
 if a==b:
     print("Yes")
 else:
