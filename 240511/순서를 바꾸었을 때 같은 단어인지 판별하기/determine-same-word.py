@@ -1,7 +1,6 @@
 a=input()
 b=input()
-sort(a);sort(b);
-if a==b:
+if sorted(a)==sorted(b):
     print("Yes")
 else:
     print('No')
